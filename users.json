@@ -1,18 +1,8 @@
- [
-     {
+ 
+{
     "studentFirstName":"John",
     "collegeName":"IIT" ,
     "location":"Mumbai"
-},
-
-{
-"results":[
-    "Rajesh",
-    "Ramesh",
-    "Sayli",
-    "sanjana"
-]
 }
 
 
- ]
